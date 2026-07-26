@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B8ED0&center=true&vCenter=true&width=600&lines=TD+File+Manager;Modern+%7C+Fast+%7C+Cross-Platform;Windows-Style+File+Explorer)](https://github.com/Taha-Azadi/TD-File-manager)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B8ED0&center=true&vCenter=true&width=600&lines=TD+File+Manager+v1.0.0;Modern+%7C+Fast+%7C+Cross-Platform;Windows-Style+File+Explorer)](https://github.com/Taha-Azadi/TD-File-manager)
 
 <!-- Badges -->
 <p>
