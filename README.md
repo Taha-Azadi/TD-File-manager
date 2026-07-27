@@ -223,7 +223,7 @@ TD-File-manager/
 ├── requirements.txt             # Python dependencies
 ├── LICENSE                      # MIT License
 ├── README.md                    # This file
-├── screenshots/                 # App screenshots (see guide above)
+├── screenshots/                 # App screenshots
 │   ├── banner.png
 │   ├── light_mode_main.png
 │   ├── dark_mode_main.png
