@@ -21,7 +21,7 @@
   <a href="#-screenshots">Screenshots</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-usage">Usage</a> •
-  <a href="#-keyboard-shortcuts">Shortcuts</a> •
+  <a href="#%EF%B8%8F-keyboard-shortcuts">Shortcuts</a> •
   <a href="#-tech-stack">Tech Stack</a>
 </p>
 
