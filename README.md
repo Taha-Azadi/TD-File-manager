@@ -83,8 +83,6 @@
 
 ## 📸 Screenshots
 
-> **📌 Note for Contributors:** Replace the placeholder images below with real screenshots. See the <a href="#screenshot-guide">Screenshot Guide</a> for details on what to capture.
-
 ### 🖥️ Main Interface — Light Mode
 <p align="center">
   <img src="screenshots/light_mode_main.png" alt="Light Mode Main Interface" width="900"/>
@@ -128,26 +126,6 @@
   <img src="screenshots/breadcrumb_bar.png" alt="Breadcrumb Address Bar" width="800"/>
 </p>
 <p align="center"><i>Clickable breadcrumb path bar — jump to any parent folder instantly</i></p>
-
----
-
-## 📸 Screenshot Guide
-
-If you want to contribute screenshots or update the visuals, capture the following images and save them to the `screenshots/` folder:
-
-| Filename | What to Capture |
-|----------|----------------|
-| `banner.png` | A wide banner (1200x400) showing the app logo + title. Can be a composite of multiple UI elements. |
-| `light_mode_main.png` | Full app window in **Light theme**, showing the **Details view** with files and folders visible. Navigate to a folder with mixed content. |
-| `dark_mode_main.png` | Same folder/state as above, but with **Dark theme** toggled on. Show the contrast. |
-| `view_icons.png` | Switch to **Icons view** (toolbar dropdown) and capture the large icon grid layout. |
-| `view_list_tiles.png` | Split image: left half = **List view**, right half = **Tiles view**. Use the same folder for consistency. |
-| `search_feature.png` | Start a search (type in search box, press Enter), capture the **progress dialog** and the **results popup**. |
-| `context_menu.png` | Right-click on a file to show the **context menu** (Open, Cut, Copy, Rename, Delete, Properties). |
-| `properties_dialog.png` | Right-click a file → Properties. Capture the **Properties dialog** showing Name, Type, Size, Dates. |
-| `breadcrumb_bar.png` | Close-up of the **address bar** showing clickable breadcrumbs (e.g., `This PC > C: > Users > Username`). |
-
-> **Tip:** Use a clean folder like `C:\Users\YourName\Documents` with a mix of files and folders for consistent screenshots.
 
 ---
 
@@ -307,7 +285,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
   <a href="mailto:taha.azadi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p><i>Building practical tools with clean code. From Tehran to the world.</i></p>
+<p><i>Building practical tools with clean code. From Zanjan to the world.</i></p>
 
 <!-- Profile views counter -->
 <p>
